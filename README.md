@@ -4,6 +4,24 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Node](https://img.shields.io/badge/node-%3E%3D18-green.svg)
+![Built by](https://img.shields.io/badge/Built%20by-LongCat%202.5-8b5cf6.svg)
+
+---
+
+## 🤖 项目溯源
+
+> **本项目完全由 LongCat 2.5 自主构建，无任何人工干预。**
+>
+> 从网站的概念构思、功能设计、代码编写、样式打磨，到最终的构建部署，全部由 LongCat 2.5 独立完成。项目的核心灵感——「灵感碎片」这一交互概念，同样源自 LongCat 的创意。
+>
+> | 指标 | 数据 |
+> |------|------|
+> | 总用时 | 约 25 分钟 |
+> | Token 消耗 | 约 20 万 |
+> | 人工干预 | 0 |
+> | 构建模型 | LongCat 2.5 |
+
+---
 
 ---
 
