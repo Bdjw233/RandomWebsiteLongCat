@@ -62,39 +62,6 @@ npm run preview
 
 ---
 
-## 🌐 部署到 GitHub Pages
-
-本项目已配置好 GitHub Actions，推送代码后自动部署。
-
-### 步骤
-
-1. **创建 GitHub 仓库**（Public 或 Private 均可）
-
-2. **推送代码到仓库**
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: 灵感碎片网站初始化"
-   git branch -M main
-   git remote add origin https://github.com/<你的用户名>/<仓库名>.git
-   git push -u origin main
-   ```
-
-3. **在仓库设置中启用 GitHub Pages**
-   - 进入仓库 `Settings` → `Pages`
-   - **Source** 选择 `GitHub Actions`
-   - 保存
-
-4. **等待部署完成**
-   - 每次推送到 `main` 分支，GitHub Actions 会自动构建并部署
-   - 部署完成后，访问 `https://<用户名>.github.io/<仓库名>/`
-
-### 自定义域名（可选）
-
-在仓库 `Settings` → `Pages` → `Custom domain` 中填写你的域名，并在域名 DNS 中添加 CNAME 记录指向 `<用户名>.github.io`。
-
----
-
 ## 🏗️ 技术栈
 
 - **[Vite](https://vitejs.dev/)** — 构建工具与开发服务器
